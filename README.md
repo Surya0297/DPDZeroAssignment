@@ -11,6 +11,7 @@ This is a backend system developed using Spring Boot for user registration and d
 - **MySQL**: MySQL is used as the database to store user and data information.
 
 # Database Schema
+<img src="https://github.com/Surya0297/DPDZeroAssignment/blob/main/Data%20Schema.png?raw=true">
 
 The database schema consists of two tables:
 
