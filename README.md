@@ -41,7 +41,7 @@ Follow these steps to run the application:
 
 Clone the Repository:
 
-git clone https://github.com/your-username/user-registration-data-storage.git
+git clone https://github.com/Surya0297/DPDZeroAssignment/tree/main
 cd user-registration-data-storage
 Database Configuration:
 
